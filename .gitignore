@@ -1,1 +1,7 @@
+.gitkeep
 Thumbs.db
+*.class
+*.png
+build.fxbuild
+.project
+.classpath
