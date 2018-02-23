@@ -7,13 +7,15 @@ import java.util.Random;
 
 /**
  * @author chick
- * @see MainController.java
- * @version 1.00
- * @since 2018/02/22
+ * @since   1.00 :2018/02/22
+ * @version 1.01 :2018/02/23
  */
 public class RandamInt {
 	private String result = "";
 
+	/**
+	 * @return おみくじの結果
+	 */
 	public String getOmikuji() {
 		// 乱数
 		Random rnd = new Random();

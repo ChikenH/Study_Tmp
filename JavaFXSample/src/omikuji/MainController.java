@@ -14,9 +14,9 @@ import omikuji.RandamInt;
 
 /**
  * @author chick
- * @see OmikujiFXMain.java, RandamInt.java
- * @version 1.00
- * @since 2018/02/22
+ * @see RandamInt#getOmikuji()
+ * @since   1.00 :2018/02/22
+ * @version 1.01 :2018/02/23
  */
 public class MainController implements Initializable {
 	@FXML private Button button1;

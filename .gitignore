@@ -2,8 +2,10 @@
 Thumbs.db
 *.class
 *.png
+*.jpg
 build.fxbuild
 .project
 .classpath
-bin/
 .settings/
+bin/
+doc/
