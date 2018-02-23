@@ -5,3 +5,4 @@ Thumbs.db
 build.fxbuild
 .project
 .classpath
+bin/
