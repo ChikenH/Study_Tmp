@@ -6,3 +6,4 @@ build.fxbuild
 .project
 .classpath
 bin/
+.settings/
