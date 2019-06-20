@@ -5,4 +5,4 @@
  Temporary
 
 # Description
- I studying Java, PowerShell, etc.
+ I am studying Java, Python, ...
