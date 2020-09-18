@@ -1,3 +1,7 @@
+# comment
+#  指定したいファイルを除外  e.g. index.html
+#  ルートディレクトリを指定  e.g. /root.html
+#  ディレクトリ以下を除外    e.g. dir/
 .gitkeep
 Thumbs.db
 *.class
@@ -9,3 +13,4 @@ build.fxbuild
 .settings/
 bin/
 doc/
+first.txt
